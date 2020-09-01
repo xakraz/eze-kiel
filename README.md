@@ -13,4 +13,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<img src="https://media.giphy.com/media/YQitE4YNQNahy/giphy.gif" alt="leet-hack" class="center">
+<style>
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+</style>
+<img src="https://forthebadge.com/images/badges/certified-yourboyserge.svg" alt="serge" class="center">
