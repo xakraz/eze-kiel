@@ -1,4 +1,5 @@
 ## Hello there
+<img align="right" alt="GIF" src="https://github.com/eze-kiel/eze-kiel/blob/master/mi.gif?raw=true">
 
 * :office: I'm currently working @ [devops.works](https://devops.works)
 * :space_invader: I'm into offensive security
