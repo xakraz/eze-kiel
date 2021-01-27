@@ -1,6 +1,10 @@
 ## Hello there
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api?username=eze-kiel&show_icons=true&theme=great-gatsby&count_private=true&hide=contribs)](https://github-readme-stats.vercel.app/api?username=eze-kiel&show_icons=true&theme=great-gatsby&count_private=true&)
+* :office: I'm currently working @ [devops.works](https://devops.works)
+* :space_invader: I'm into offensive security
+* :computer: I love developping stuff, especially in Golang
+
+<img align="center" alt="GIF" src="https://github-readme-stats.vercel.app/api?username=eze-kiel&show_icons=true&theme=great-gatsby&count_private=true&hide=contribs"/>
 
 ## Might be usefull
 
