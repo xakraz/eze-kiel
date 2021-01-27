@@ -1,9 +1,9 @@
 ## Hello there
-<img align="right" alt="GIF" src="https://github.com/eze-kiel/eze-kiel/blob/master/mi.gif?raw=true" width=250 height=250>
+<img align="right" alt="GIF" src="https://github.com/eze-kiel/eze-kiel/blob/master/mi.gif?raw=true" width=300 height=300>
 
 * :office: I'm currently working @ [devops.works](https://devops.works)
-* :space_invader: I'm into offensive security
-* :computer: I love developping stuff, especially in Golang
+* :space_invader: I love breaking things
+* :computer: I'm into developping stuff, especially in Golang
 
 <img align="center" alt="GIF" src="https://github-readme-stats.vercel.app/api?username=eze-kiel&show_icons=true&theme=great-gatsby&count_private=true&hide=contribs"/>
 
