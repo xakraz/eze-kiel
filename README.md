@@ -3,7 +3,7 @@
 
 * :office: I'm currently working @ [devops.works](https://devops.works)
 * :space_invader: I love breaking stacks and making binaries go skrrrr
-* :computer: I enjoy developping random (and mostly useless) stuff, especially in Golang
+* :computer: I enjoy developing random (and mostly useless) stuff, especially in Golang
 
 <img align="center" alt="GIF" src="https://github-readme-stats.vercel.app/api?username=eze-kiel&show_icons=true&theme=great-gatsby&count_private=true&hide=contribs"/>
 
