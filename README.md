@@ -7,7 +7,7 @@
 
 <img align="center" alt="GIF" src="https://github-readme-stats.vercel.app/api?username=eze-kiel&show_icons=true&theme=great-gatsby&count_private=true&hide=contribs"/>
 
-## Might be usefull
+## Might be useful
 
 GPG public key [here](https://keybase.io/ezekiell/pgp_keys.asc)
 
