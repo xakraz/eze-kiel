@@ -1,5 +1,5 @@
 ## Hello there
-<img align="right" alt="GIF" src="https://github.com/eze-kiel/eze-kiel/blob/master/mi.gif?raw=true" width=300 height=300>
+<img align="right" alt="pic" src="https://github.com/eze-kiel/eze-kiel/blob/master/hands.png?raw=true" width=300 height=300>
 
 * :office: I'm currently working @ [devops.works](https://devops.works)
 * :space_invader: I love breaking stacks and making containers go skrrrr
